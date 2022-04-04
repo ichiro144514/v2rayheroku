@@ -25,7 +25,7 @@ ___
    - [ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
 
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/heshan2/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSkoopyLK%2Fheroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ⭕ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʀᴇɢɪᴏɴ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ʙᴇꜱᴛ ꜰᴏʀ ʏᴏᴜ.
    - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
